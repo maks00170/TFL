@@ -5,7 +5,7 @@
  
 ## Всё запускалось и тестировалось в Google Collab. 
 
-**Пример работы в Jupyter [Notebook](https://github.com/maks00170/TFL/blob/main/lab2-3/Lab_2_3_Test.ipynb)**
+**Пример работы в [Jupyter Notebook](https://github.com/maks00170/TFL/blob/main/lab2-3/Lab_2_3_Test.ipynb)**
 
 ## Грамматика:
 1. INT : [0-9]+
