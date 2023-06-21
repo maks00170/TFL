@@ -3,12 +3,12 @@
 ## Запуск
 [Инструкция](https://evogeek.ru/articles/27474/) для установки и сборки проекта.
  
-
+## Всё запускалось и тестировалось в Google Collab. Пример работы в Jupyter Notebook
 
 ## Доступные методы:
 1. INT : [0-9]+
 2. REAL : INT'.'INT 
-3. STRING :  [a-z_]
+3. STRING :  [a-z_]+
 4. SIGN : < | > | == | != | = | <= | >= | ** | * | / | + | - | %
 5. BOOL : True | False 
 6. NEGATIVE : -INT
